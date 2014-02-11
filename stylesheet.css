@@ -1,0 +1,15 @@
+body{
+	background-color: yellow;
+}
+
+#first_font{font-family: 'Balthazar', serif;
+
+}
+
+#second_font{font-family: 'Montserrat Alternates', sans-serif;
+
+}
+
+#thrid_font{
+	font-family: 'Happy Monkey', cursive;
+}
